@@ -1,0 +1,44 @@
+ 
+http://geospatialfrance.typepad.com/geospatialfrance/2015/09/videos-tutoriels-pour-les-modeles-metiers-bureautiques-autocad-map-3d-2016.html
+ 
+---- 18/09/2015 ---- Vidéos ---- 
+---- Tutoriels pour les modèles métiers bureautiques AutoCAD Map 3D 2016 ---- 
+
+http://georezo.net/forum/viewtopic.php?pid=274903
+
+http://georezo.net/forum/viewtopic.php?id=98562
+
+Sebastien Baudin : Sebastien.Baudin@bluewin.ch ; Sebastien.Baudin@autodesk.com ; 
+
+A la suite d’échanges sur le forum Autodesk_SIG de GeoRezo, 
+Sébastien Baudin et moi-même avons décidé de mettre en ligne des vidéos 
+que Sébastien avait réalisé plus tôt dans l’année.
+
+Ce jeu de vidéos a été créé par Sébastien, qui oeuvre au Premium Support Autodesk.
+Il n'y a pas de son, mais le contenu devrait être suffisamment explicite 
+pour vous permettre de prendre en main les modèles métiers bureautiques d'AutoCAD Map 3D 2016.
+
+A - Creation de la Base de Donnees 
+https://www.youtube.com/watch?v=w0FALdLpm34
+
+B - Elaboration de la structure des Donnees 
+https://www.youtube.com/watch?v=AoDacONq5Lo
+
+C - Saisie des premieres Donnees 
+https://www.youtube.com/watch?v=yPY1NsjHqIk
+
+D - Digitalisation des premieres Donnees 
+https://www.youtube.com/watch?v=sHwEJkstyzc
+
+E - Stylisation de l Affichage 
+https://www.youtube.com/watch?v=MWBoPrlWshA
+
+F - Configuration d une Etiquette (Label) 
+https://www.youtube.com/watch?v=SL9-e1RqdSU
+
+G - Stylisation de l'etiquette 
+https://www.youtube.com/watch?v=wtYzUpgcZRc
+
+H - Generation de Rapport 
+https://www.youtube.com/watch?v=aGyJLuWX6Ww
+
